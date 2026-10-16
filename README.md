@@ -1,7 +1,7 @@
 # My Hobbies Webpage
 
 ## Description
-This project is a static webpage about my hobbies, it provides information about what i like to do in my free time.
+This project is a static webpage about my hobbies as a kid, it provides information about what i liked to do in my free time.
 
 ## Features
 - A homepage introducing my hobbies.
